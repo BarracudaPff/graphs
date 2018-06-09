@@ -45,6 +45,7 @@ public class View extends JFrame {
         setResizable(false);
         this.model = model;
         buildView();
+
     }
 
     private void buildView() {
